@@ -1,6 +1,6 @@
 # MAOJI
 
-一个 memo 网页应用的前台页面。 📮[Demo](https://maoji.vercel.app)
+一个 memo 网页应用的前台页面。 
 
 # 开发
 
